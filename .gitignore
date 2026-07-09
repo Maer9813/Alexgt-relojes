@@ -2,3 +2,5 @@
 github-login.ps1
 generate_social.py
 assets/watches/*.png
+assets/real-watches/contact-sheet.jpg
+assets/real-watches/manifest.json
